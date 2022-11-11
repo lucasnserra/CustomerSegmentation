@@ -1,4 +1,4 @@
-# CustomerSegmentation
+# Customer Segmentation con Python
 
 El objetivo de este repositorio es analizar como llevar adelante una Segmentación de clientes a traves del metodo RFM y del analisis de Cohortes. En el mismo encontraras 4 notebooks: 
 1- Analisis de Cohorte por tiempo.
