@@ -4,5 +4,5 @@ El objetivo de este repositorio es analizar como llevar adelante una Segmentaci√
 1- Analisis de Cohorte por tiempo.
 2- RFM clasica y segmentaci√≥n de clientes por Score.
 3- Preprocesamiento de datos para Clusterizar clientes a traves de K-means.
-4- End to end.
+4- End to end Solution con KMeans.
 
